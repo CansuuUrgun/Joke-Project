@@ -25,9 +25,9 @@ API endpoint:
 https://v2.jokeapi.dev/joke/Programming?type=twopart
 
 ## 📌 Demo
-Add your live demo link here, for example:  
-[Play Drum Kit](https://cansuuurgun.github.io/Drum-Kit/)
+[Joke](https://joke-project-wh6g.onrender.com)
 
 ## 📝 Author
 Developed by **Cansu Urgun**  
 Connect with me on [LinkedIn](https://www.linkedin.com/in/cansu-urgun/)
+
