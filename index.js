@@ -3,7 +3,7 @@ import axios from "axios";
 import ejs from "ejs";
 
 const app = express();
-const port = 3000;
+const port = process.env.PORT || 3000;
 const status = ["100","101","102","103",
     "200","201","202","203","204","205","206","207","208","214","226",
     "300","301","302","303","304","305","307","308",
